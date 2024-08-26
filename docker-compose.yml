@@ -1,0 +1,7 @@
+version: 3.7
+services:
+ challenge2:
+  build: . #image: chrisw8/challenge2  -esto lo debe colocar el huesped y reemplazar por build-
+  ports:
+    - 8000:80
+
