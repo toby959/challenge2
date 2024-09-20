@@ -9,8 +9,11 @@
 
 ## Uso:
 #### Se levanto la aplicación con Docker, quedando alojada en DockerHub. 🚀 🐳
+
 ___
 
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/toby959/challenge2/blob/main/LICENSE) para más detalles.
+
+
